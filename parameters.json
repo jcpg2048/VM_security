@@ -89,7 +89,7 @@
             "value": "azureuser"
         },
         "adminPassword": {
-            "value": null
+            "value": "Jayachandra@2048"
         },
         "securityType": {
             "value": "TrustedLaunch"
